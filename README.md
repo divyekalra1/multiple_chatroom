@@ -1,4 +1,4 @@
-# Chatroom for Multiple Users
+# Single Server - Multiple Client Chatroom
 
 A chatroom application for multiple users to connect to at the same time. 
 
